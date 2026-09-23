@@ -3,7 +3,7 @@ This is a repository containing works created through vibe coding with Budax, an
 
 if you want to support our work, please donate. Thanks.
 
-![Donate](https://github.com/DotNetVibeCoderz/.github/blob/main/Donasi-Github.png)
+![Donate](https://github.com/DotNetVibeCoderz/.github/blob/main/Donasi-Github_2.png)
 
 some of the projects included are:
 
