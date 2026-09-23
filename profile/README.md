@@ -49,7 +49,7 @@ if you want to support our work, please donate. Thanks.
 
 ## About
 
-DotNetVibeCoderz is an experimental collection of software built via "vibe coding" — projects generated and iterated on primarily through the Budax AI App Generator (from Gravicode Studios), spanning .NET/C#, Rust, and JavaScript. The repos are organized by domain (ML, graphics, security, database, IoT, games, enterprise apps, and more), each serving as a standalone collection for that category.
+DotNetVibeCoderz is a collection of software built via "vibe coding" — projects generated and iterated on primarily through the Budax AI App Generator (from Gravicode Studios), spanning .NET/C#, Rust, and JavaScript. The repos are organized by domain (ML, graphics, security, database, IoT, games, enterprise apps, and more), each serving as a standalone collection for that category.
 
 ## License
 
