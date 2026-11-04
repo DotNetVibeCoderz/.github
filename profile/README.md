@@ -10,20 +10,27 @@ if you want to support our work, please donate. Thanks.
 
 ![Donate](https://github.com/DotNetVibeCoderz/.github/blob/main/Donasi-Github_2.png)
 
-## Repositories (30)
+## Repositories (37)
 
 | Repository | Language | Description |
 |---|---|---|
 | [.github](https://github.com/DotNetVibeCoderz/.github) | — | Org profile repo — contains this README and org-wide community health files |
+| [Vibe_Utilities](https://github.com/DotNetVibeCoderz/Vibe_Utilities) | Python | Collection of vibed utilities |
+| [Vibe_Physics](https://github.com/DotNetVibeCoderz/Vibe_Physics) | C# | Collection of vibed physics libraries / engines |
+| [Vibe_Robotics](https://github.com/DotNetVibeCoderz/Vibe_Robotics) | C# | Collection of vibed robotics solutions |
+| [Vibe_Components](https://github.com/DotNetVibeCoderz/Vibe_Components) | C# | Collection of vibed components |
+| [Vibe_Bio](https://github.com/DotNetVibeCoderz/Vibe_Bio) | C# | Collection of vibed biotech solutions |
+| [Vibe_Finance](https://github.com/DotNetVibeCoderz/Vibe_Finance) | C# | Collection of vibed financial solutions |
+| [Vibe_Crypto](https://github.com/DotNetVibeCoderz/Vibe_Crypto) | C# | Collection of vibed crypto solutions |
 | [Vibe_Communication](https://github.com/DotNetVibeCoderz/Vibe_Communication) | C# | Vibed communication solutions |
 | [Vibe_ML](https://github.com/DotNetVibeCoderz/Vibe_ML) | C# | Collection of AI/ML solutions built with Budax and other vibe coding tools |
 | [Vibe_Graphics](https://github.com/DotNetVibeCoderz/Vibe_Graphics) | C# | Vibed graphics library / app collection |
-| [Vibe_SDK](https://github.com/DotNetVibeCoderz/Vibe_SDK) | JavaScript | SDKs created by vibing |
+| [Vibe_SDK](https://github.com/DotNetVibeCoderz/Vibe_SDK) | C# | SDKs created by vibing |
 | [Vibe_Office](https://github.com/DotNetVibeCoderz/Vibe_Office) | C# | Office projects created by Budax |
 | [Vibe_Library](https://github.com/DotNetVibeCoderz/Vibe_Library) | C# | Libraries created by Budax |
 | [Vibe_Database](https://github.com/DotNetVibeCoderz/Vibe_Database) | C# | Database projects created by Budax |
 | [Vibe_Messaging](https://github.com/DotNetVibeCoderz/Vibe_Messaging) | C# | Messaging library projects created by Budax |
-| [Vibe_Framework](https://github.com/DotNetVibeCoderz/Vibe_Framework) | Rust | Collection of frameworks (libraries, tools, apps, etc.) |
+| [Vibe_Framework](https://github.com/DotNetVibeCoderz/Vibe_Framework) | C# | Collection of frameworks (libraries, tools, apps, etc.) |
 | [Vibe_Language](https://github.com/DotNetVibeCoderz/Vibe_Language) | C# | Language feature projects created by Budax |
 | [Vibe_Charting](https://github.com/DotNetVibeCoderz/Vibe_Charting) | C# | Collection of vibed charting libraries |
 | [Vibe_Security](https://github.com/DotNetVibeCoderz/Vibe_Security) | C# | Collection of vibed security tools |
@@ -49,7 +56,7 @@ if you want to support our work, please donate. Thanks.
 
 ## About
 
-DotNetVibeCoderz is a collection of software built via "vibe coding" — projects generated and iterated on primarily through the Budax AI App Generator (from Gravicode Studios), spanning .NET/C#, Rust, and JavaScript. The repos are organized by domain (ML, graphics, security, database, IoT, games, enterprise apps, and more), each serving as a standalone collection for that category.
+DotNetVibeCoderz is a collection of software built via "vibe coding" — projects generated and iterated on primarily through the Budax AI App Generator (from Gravicode Studios), spanning .NET/C#, Rust, Python, and HTML. The repos are organized by domain (ML, graphics, security, database, IoT, games, enterprise apps, and more), each serving as a standalone collection for that category.
 
 ## License
 
