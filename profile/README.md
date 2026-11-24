@@ -10,11 +10,12 @@ if you want to support our work, please donate. Thanks.
 
 ![Donate](https://github.com/DotNetVibeCoderz/.github/blob/main/Donasi-Github_2.png)
 
-## Repositories (37)
+## Repositories (38)
 
 | Repository | Language | Description |
 |---|---|---|
 | [.github](https://github.com/DotNetVibeCoderz/.github) | — | Org profile repo — contains this README and org-wide community health files |
+| [Vibe_CAD](https://github.com/DotNetVibeCoderz/Vibe_CAD) | C# | Collection of vibed CAD libraries and apps |
 | [Vibe_Utilities](https://github.com/DotNetVibeCoderz/Vibe_Utilities) | Python | Collection of vibed utilities |
 | [Vibe_Physics](https://github.com/DotNetVibeCoderz/Vibe_Physics) | C# | Collection of vibed physics libraries / engines |
 | [Vibe_Robotics](https://github.com/DotNetVibeCoderz/Vibe_Robotics) | C# | Collection of vibed robotics solutions |
